@@ -37,7 +37,7 @@ Go to your index.html and right click, if the LiveServer Extension installed pro
 
 ## Demo
 
-Insert gif or link to demo
+[Demo](https://meteo-shecodes-app-boipelo.netlify.app/)
 
 
 ## Documentation
