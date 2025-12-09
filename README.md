@@ -9,7 +9,7 @@ Stay ahead of the forecast with Meteo, your all-in-one weather companion. Design
 
 🌦️Hourly & 7-Day Forecasts: Plan your day or week with detailed predictions tailored to your location.
 
-🌦️Global Coverage: Whether you’re at home or traveling, SkyCast provides accurate forecasts worldwide.
+🌦️Global Coverage: Whether you’re at home or traveling, Meteo provides accurate forecasts worldwide.
 
 🌦️Minimalist Design: Clean, intuitive interface built for quick checks and deep dives alike.
 ## Run Locally
@@ -37,7 +37,7 @@ Go to your index.html and right click, if the LiveServer Extension installed pro
 
 ## Demo
 
-Insert gif or link to demo
+[Demo](https://meteo-shecodes-app-boipelo.netlify.app/)
 
 
 ## Documentation
